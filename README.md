@@ -435,73 +435,43 @@ This step generates the predicted results for the testing sets and saves them in
 
 > All drawing codes are from `src/Figures/`
 
-* Figure 2
+* Figure 4-1, 4-2, 4-3, 4-4
 
-  > src/Figures/Figure2.ipynb
+  > src/draw/baseline.ipynb
+
+* Figure 4-5
+
+  > src/draw/sankey.ipynb
 
   > Sankey diagram of the different datasets under WCSGNet's 5-fold cross-validation.  
 
-* Figure 3
+* Figure 4-6, 4-7, 4-9, 4-10
 
-  > src/Figures/Figure-rare-cell-type.ipynb
-
-  > Comparison of rare cell type identification performance across nine scRNA-seq datasets. Each panel presents a bar chart showing the mean F1-score for WCSGNet and eight baseline methods. 
-
-* Figure 4
-
-  > src/Figures/Figure-diff-net.py
-
-  > Comparison of WCSGNet performance using different gene association networks across nine scRNA-seq datasets.   
-
-* Figure 5(A) and (B)
-
-  > src/Figures/Figure5AB.ipynb
-
-  > Performance of WCSGNet with different edge weight representation methods, including the original method, binary transformation and binary transformation  .  
-
-* Figure 6(A-N) 
-
-  > BaronHuman_analysis.ipynb
+  > src/draw/analysis_Baron_Human.ipynb
   >
-  > src/Figures/R/Figure-hub-genes.R
-
-  >  Top degree gene analysis of WCSN for different cell types on the Baron Human dataset  
-
-* Figure 7(A-N)
-
-  > BaronHuman_analysis.ipynb
+  > src/draw/R/Figure-hub-genes.R
   >
-  > src/Figures/R/Figure-high-weight.R
+  > src/draw/R/Figure-high-weight.R
 
-  > Top high-weight edges analysis of WCSNs for different cell types in the Baron Human dataset.   
+* Figure 4-8, 4-11
 
-* Figure 8(A-N)
-
-  > src/Figure/Figure-tsne.py
-
-  >  T-SNE visualization and feature analysis of the Baron Human dataset using WCSGNet.  
-
-* Figure 9(A-H)
-
-  > src/Figures/AMB_analysis.ipynb
+  > src/draw/analysis_AMB.ipynb
   >
-  > src/Figures/R/Figure-AMB-gene.R
+  > src/draw/R/Figure-AMB-gene.R
   >
-  > src/Figures/R/Figure-AMB-edge.R
+  > src/draw/R/Figure-AMB-edge.R
 
-  > Analysis of top degree genes and high-weight edges in WCSN for Different Cell Types on the AMB Dataset. 
+* Figure 5-1, 5-2
 
-* Figure S1
+  > src/draw/log_trans.py  
 
-  > src/Figures/Figure-log.py
+* Figure 5-3
 
-  > Distribution of edge weights before and after logarithmic transformation for the training sets in five-fold cross-validation across all datasets including Zhang T, Kang, Zheng 68k, Baron Human, Muraro, Segerstolpe, AMB, TM and Baron Mouse.  
+  > src/draw/LT_compare.ipynb
 
+* Figure 5-4, 5-5
 
-
-
-
-
+  > src/draw/ewcsn.ipynb
 
 
 
