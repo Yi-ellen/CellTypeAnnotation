@@ -124,7 +124,7 @@ We also proposes two optimization strategies for constructing WCSNs: first, loga
 
   * scRNAseq_Benchmark_datasets
 
-    > The downloaded scRNA-seq datasets include: Muraro, Segerstolpe, Zheng 68k, Zhang_T, Kang, Baron, AMB, and TM.
+    > The downloaded scRNA-seq datasets include: Muraro,Zheng 68k, Zhang_T, Kang, Baron, AMB, and TM.
 
   * Network:
 
@@ -194,7 +194,7 @@ We also proposes two optimization strategies for constructing WCSNs: first, loga
 
 ##### 3.1.1 Download scRNA-seq dataset
 
-> **Muraro, Segerstolpe, Zheng 68k, Baron, AMB, and TM**: Available for direct download from [Zenodo](https://doi.org/10.5281/zenodo.3357167).
+> **Muraro, Zheng 68k, Baron, AMB, and TM**: Available for direct download from [Zenodo](https://doi.org/10.5281/zenodo.3357167).
 >
 > **Zhang T**: Accessible via GEO under accession number GSE108989.
 >
