@@ -4,6 +4,12 @@ In this work, we constructed Weighted Cell-Specific Networks (WCSN) based on hig
 
 We also proposes two optimization strategies for constructing WCSNs: first, logarithmic transformation of network edge weights to mitigate the skewed distribution problem of gene expression levels; second, integration of high-confidence gene regulatory networks to supplement WCSNs, thereby enhancing the integrity of network structure and biological interpretability.  
 
+
+
+## Citation
+
+Yi-Ran Wang, Pu-Feng Du*. WCSGNet: a graph neural network approach using weighted cell-specific networks for cell-type annotation in scRNA-seq. *Frontiers in Genetics* (2025). doi: 10.3389/fgene.2025.1553352.
+
 ### 1. Platform and Dependency
 
 #### 1.1 Platform
